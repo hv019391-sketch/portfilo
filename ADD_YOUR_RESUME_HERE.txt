@@ -1,0 +1,9 @@
+RESUME SETUP
+============
+1. Add your own resume PDF into this assets folder.
+2. Rename the PDF exactly to: resume.pdf
+3. The portfolio buttons already link to assets/resume.pdf.
+4. Keep the filename and folder path unchanged.
+5. Upload the assets folder and its resume.pdf file to GitHub with the website.
+
+The ZIP does not include a personal resume because you have not uploaded one yet.
